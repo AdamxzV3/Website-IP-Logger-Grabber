@@ -10,3 +10,6 @@ This program is an IP Grabber for .html, script is coded in js ofcourse.
 5.  Now you are done and free to log IPs which are accessing your site
 
 Discord Webhook IP Grabber / Logger with Javascript in html
+
+
+Credits to : culturally
